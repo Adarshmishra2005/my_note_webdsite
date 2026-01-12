@@ -1,0 +1,1 @@
+cursor = current_app.db.cursor()
